@@ -1,0 +1,26 @@
+{
+    "editor.fontSize": 12,
+    "workbench.colorTheme": "PowerShell ISE",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.settings.mode": "advanced",
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.minimap.enabled": false,
+    "editor.snippetSuggestions": "top",
+    "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnSave": true,
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.openEditors.visible": 0,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "hidden",
+    "workbench.activityBar.visible": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreview": false,
+    "workbench.statusBar.visible": false
+}
